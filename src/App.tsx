@@ -16,6 +16,7 @@ function App() {
 
   return (
     <HStack>
+      New Feature
       <FileUpload.Root
         maxW="xl"
         alignItems="stretch"
